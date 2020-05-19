@@ -112,6 +112,75 @@
               <div class="body-container">
                 <div class="resume-section-content">
                   <div class="resume-timeline position-relative">
+                      <article class="resume-timeline-item position-relative pb-5">
+                      <div class="resume-timeline-item-header mb-2">
+                        <div class="d-flex flex-column flex-md-row">
+                          <h3 class="resume-position-title font-weight-bold mb-1">
+                            Web
+                            Developer at sahaware.co.id (dds telkom - antares.id)
+                          </h3>
+                          <div class="resume-company-name ml-auto">
+                            <ul>
+                              <li>
+                                <a
+                                  href="https://antares.id"
+                                  target="_blank"
+                                  rel="noopener noreferrer"
+                                >antares
+                                </a>
+                              </li>
+                              <li>
+                                <a
+                                  href="http://sahaware.co.id"
+                                  target="_blank"
+                                  rel="noopener noreferrer"
+                                >
+                                  sahaware
+                                </a>
+                              </li>
+                            </ul>
+                          </div>
+                        </div>
+                        <!--//row-->
+                        <div class="resume-position-time">March 2020 - now</div>
+                      </div>
+
+                      <!--//resume-timeline-item-header-->
+                      <div class="resume-timeline-item-desc">
+                        <p>Build some web / webapp Project</p>
+                        <h4 class="resume-timeline-item-desc-heading font-weight-bold">Achievements:</h4>
+                        <p class="h6">
+                          1.
+                          <strong>antares landing page</strong>
+                        </p>
+                        <ul>
+                          <li>adding email service</li>
+                          <li>edit and fix bugs (maintenance)</li>
+                          <li>adding new features</li>
+                        </ul>
+                        <br />
+
+                        <h4 class="resume-timeline-item-desc-heading font-weight-bold">
+                          Technologies
+                          used:
+                        </h4>
+                        <ul class="list-inline">
+                          <li class="list-inline-item">
+                            <span class="badge badge-primary badge-pill">jquery</span>
+                          </li>
+                          <li class="list-inline-item">
+                            <span class="badge badge-primary badge-pill">script google</span>
+                          </li>
+                       
+                          <li class="list-inline-item">
+                            <span class="badge badge-primary badge-pill">HTML/SASS</span>
+                          </li>
+                        
+                       
+                        </ul>
+                      </div>
+                      <!--//resume-timeline-item-desc-->
+                    </article>
                     <article class="resume-timeline-item position-relative pb-5">
                       <div class="resume-timeline-item-header mb-2">
                         <div class="d-flex flex-column flex-md-row">
