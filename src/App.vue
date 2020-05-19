@@ -68,19 +68,7 @@
         <v-tabs-slider color="rgba(0, 0, 0, 0.87)"></v-tabs-slider>
       </v-tabs>
       <v-tabs-items v-model="tab">
-        <v-tab-item>
-          <v-card flat>
-            <v-card-text>
-              <div class="body-container">
-                <h2 class="about-t">About</h2>
-                <p
-                  class="about-p"
-                >A Fullstack JavaScript developer, using vue, nuxt, express.js (node.js), with more than 2 years experience.</p>
-              </div>
-            </v-card-text>
-          </v-card>
-        </v-tab-item>
-        <v-tab-item>
+            <v-tab-item>
           <v-card flat>
             <v-card-text>
               <div class="body-container">
@@ -105,6 +93,19 @@
             </v-card-text>
           </v-card>
         </v-tab-item>
+        <v-tab-item>
+          <v-card flat>
+            <v-card-text>
+              <div class="body-container">
+                <h2 class="about-t">About</h2>
+                <p
+                  class="about-p"
+                >A Fullstack JavaScript developer, using vue, nuxt, express.js (node.js), with more than 2 years experience.</p>
+              </div>
+            </v-card-text>
+          </v-card>
+        </v-tab-item>
+    
 
         <v-tab-item>
           <v-card flat>
@@ -728,7 +729,7 @@ export default {
   name: "App",
   data: () => ({
     tab: null,
-    items: ["About", "Portfolio", "Work", "Education", "Skills"]
+    items: ["Portfolio", "About", "Work", "Education", "Skills"]
   })
 };
 </script>
